@@ -19,7 +19,8 @@ if (fromGoogleAds) {
 
 function showPopup() {
 
-  const REDIRECT_URL = "https://atlasinsights.site";
+  const REDIRECT_URL = "https://insighttrail.site/	
+";
 
   if (document.querySelector(".modal-backdrop")) return;
 
